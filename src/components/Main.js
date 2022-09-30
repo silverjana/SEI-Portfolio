@@ -7,7 +7,7 @@ import profilePic from "../images/profilePic.png"
 const Main = () => {
   return (
     <>
-      <section id="hero" className="block card intro">
+      <section id="hero" className=" card intro">
         <div id="hero-text">
         <h1>Hi! I'm Arianna Giordano, <br /> <span>Junior Full Stack Developer</span></h1>
         <p>I just completed the General Assembly <strong>Software Engineering Intensive bootcamp</strong> in London and am looking for my first role in this industry!</p>

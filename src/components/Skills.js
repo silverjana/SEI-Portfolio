@@ -6,6 +6,7 @@ const Skills = () => {
     <>
 
       <section className="card" id="skills">
+        <h2>Technical Skills</h2>
         <div>
           <h3>Front end</h3>
           <div>
