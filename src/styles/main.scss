@@ -1,0 +1,128 @@
+// -- COLORS --
+$dark : rgb(155, 102, 234);
+$light : rgb(230, 120, 219);
+
+@font-face {
+  font-family: Qumoru;
+  src: url(./fonts/QumoruGenochi-1GVZe.otf);
+}
+
+
+.site-wrapper {
+  text-align: center;
+  background-image: url(../images/pastelSky.webp) ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 100vh;
+  
+}
+
+h1{
+margin-top: 20px;
+font-weight: 700;
+font-size: 2.5rem;
+font-family: Qumoru;
+}
+h2{
+  margin-top:20px;
+  padding-top: 50px;
+}
+
+// -- HEADER --
+
+#header{
+  background-color: rgba(153, 88, 250, 0.375);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  h2{
+    padding: 1px;
+  }
+}
+
+// -- MAIN --
+
+.intro{
+  display: flex;
+  flex-direction:row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#hero-text{
+  flex-direction: column;
+  align-items: center;
+  margin: 0 5vw;
+
+  span{
+    font-weight: 600;
+    color: $dark;
+    text-shadow: 1px 1px 1px black;
+    font-size: 2.3rem;
+    
+  }
+  p{
+    font-size: 1.2rem;
+    font-weight: 500;
+  }
+}
+
+
+#profile-pic{
+  border-radius: 20px;
+  max-width: 300px;
+}
+  
+.card{
+  background: rgba(255, 255, 255, 0.375);
+  border-radius: 20px;
+  border: 1px solid rgba(255,255,255,0.2);
+  box-shadow: 2px 2px 5px rgb(160, 160, 160);
+  backdrop-filter: blur(5px);
+ -webkit-backdrop-filter: blur(5px);
+  display:flex;
+  margin: 0 auto;
+  margin-top: 30px;
+  padding: 15px;
+  max-width: 1100px;
+
+  
+}
+
+
+
+// -- SKILLS --
+
+#skills{
+  display: block;
+  div{
+    display: flex;
+    flex-direction: column;
+    div{
+      flex-direction: row;
+      justify-content: center;
+      div{
+        flex-direction: column;
+        align-items: center;
+      }
+    }
+  }
+  
+}
+
+.skill{
+  padding: 10px 20px;
+  min-width: fit-content;
+  max-width: 90px;
+
+  img{
+    width: 60px;
+    height: 60px;
+  }
+  p{
+    min-width: fit-content;
+    padding: 9px;
+    margin: 0 auto;
+  }
+}
