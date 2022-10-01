@@ -5,6 +5,7 @@ import Interests from "./Interests"
 import profilePic from "../images/profilePic.png"
 
 const Main = () => {
+  
   return (
     <>
       <section id="hero" className=" card intro">

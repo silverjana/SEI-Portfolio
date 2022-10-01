@@ -1,9 +1,8 @@
 const Projects = () => {
   return (
-    <>
-      <h1>Projects</h1>
-      
-    </>
+    <section className="card">
+
+    </section>
   )
 }
 export default Projects
