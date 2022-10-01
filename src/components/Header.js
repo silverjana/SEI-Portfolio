@@ -6,6 +6,8 @@ const Header = () => {
       <h2>Arianna Giordano</h2>
       <HashLink smooth to="/#about">About</HashLink>
       <HashLink smooth to="/#skills">Skills</HashLink>
+      <HashLink smooth to="/#projects">Projects</HashLink>
+
     </section>
   
   )
