@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.597d281c.css",
-    "main.js": "/static/js/main.1d656f8a.js",
-    "static/js/787.44d50113.chunk.js": "/static/js/787.44d50113.chunk.js",
-    "static/media/project1Mini.png": "/static/media/project1Mini.97a787526498ebcfd883.png",
-    "static/media/project2Mini.png": "/static/media/project2Mini.6797f5cd6e05a3e8f71b.png",
-    "static/media/Raleway-VariableFont_wght.ttf": "/static/media/Raleway-VariableFont_wght.575ec9e676c7a85494bb.ttf",
-    "static/media/profilePic.png": "/static/media/profilePic.49c0ab358443dfcfcfcc.png",
-    "static/media/netlify.png": "/static/media/netlify.ccce58847f997c473352.png",
-    "static/media/pastelSky.webp": "/static/media/pastelSky.43cbbb244d9bdd03b456.webp",
-    "static/media/QumoruGenochi-1GVZe.otf": "/static/media/QumoruGenochi-1GVZe.3ecc0a58d548e670fe8f.otf",
-    "static/media/insomniaLogo.png": "/static/media/insomniaLogo.6012be9eeabdcfebb0d6.png",
-    "index.html": "/index.html",
-    "main.597d281c.css.map": "/static/css/main.597d281c.css.map",
-    "main.1d656f8a.js.map": "/static/js/main.1d656f8a.js.map",
-    "787.44d50113.chunk.js.map": "/static/js/787.44d50113.chunk.js.map"
+    "main.css": "/SEI-Portfolio/static/css/main.57833f56.css",
+    "main.js": "/SEI-Portfolio/static/js/main.7e0739e9.js",
+    "static/js/787.44d50113.chunk.js": "/SEI-Portfolio/static/js/787.44d50113.chunk.js",
+    "static/media/project1Mini.png": "/SEI-Portfolio/static/media/project1Mini.97a787526498ebcfd883.png",
+    "static/media/project2Mini.png": "/SEI-Portfolio/static/media/project2Mini.6797f5cd6e05a3e8f71b.png",
+    "static/media/Raleway-VariableFont_wght.ttf": "/SEI-Portfolio/static/media/Raleway-VariableFont_wght.575ec9e676c7a85494bb.ttf",
+    "static/media/profilePic.png": "/SEI-Portfolio/static/media/profilePic.49c0ab358443dfcfcfcc.png",
+    "static/media/netlify.png": "/SEI-Portfolio/static/media/netlify.ccce58847f997c473352.png",
+    "static/media/pastelSky.webp": "/SEI-Portfolio/static/media/pastelSky.43cbbb244d9bdd03b456.webp",
+    "static/media/QumoruGenochi-1GVZe.otf": "/SEI-Portfolio/static/media/QumoruGenochi-1GVZe.3ecc0a58d548e670fe8f.otf",
+    "static/media/insomniaLogo.png": "/SEI-Portfolio/static/media/insomniaLogo.6012be9eeabdcfebb0d6.png",
+    "index.html": "/SEI-Portfolio/index.html",
+    "main.57833f56.css.map": "/SEI-Portfolio/static/css/main.57833f56.css.map",
+    "main.7e0739e9.js.map": "/SEI-Portfolio/static/js/main.7e0739e9.js.map",
+    "787.44d50113.chunk.js.map": "/SEI-Portfolio/static/js/787.44d50113.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.597d281c.css",
-    "static/js/main.1d656f8a.js"
+    "static/css/main.57833f56.css",
+    "static/js/main.7e0739e9.js"
   ]
 }
