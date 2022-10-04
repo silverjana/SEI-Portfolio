@@ -3,9 +3,14 @@ import Skills from "./Skills"
 import Projects from "./Projects"
 import Interests from "./Interests"
 import profilePic from "../images/profilePic.png"
+import { useEffect } from "react"
 
 const Main = () => {
-  
+  //when coming back to page, scroll to top
+  useEffect(() => {
+    window.scrollTo({ top: 0, left: 0, behavior: 'smooth' })
+  }, [])
+
   return (
     <>
       <section id="hero" className=" card intro">

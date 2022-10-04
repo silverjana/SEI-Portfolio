@@ -3,11 +3,12 @@ import { HashLink } from 'react-router-hash-link';
 const Header = () => {
   return (
     <section id="header"> 
-      <h2>Arianna Giordano</h2>
-      <HashLink smooth to="/#about">About</HashLink>
-      <HashLink smooth to="/#skills">Skills</HashLink>
-      <HashLink smooth to="/#projects">Projects</HashLink>
-      <HashLink smooth to="/#contacts">Contacts</HashLink>
+      
+      <HashLink smooth to="/SEI-Portfolio/#hero"><h2>Arianna Giordano</h2></HashLink>
+      <HashLink smooth to="/SEI-Portfolio/#about">About</HashLink>
+      <HashLink smooth to="/SEI-Portfolio/#skills">Skills</HashLink>
+      <HashLink smooth to="/SEI-Portfolio/#projects">Projects</HashLink>
+      <HashLink smooth to="/SEI-Portfolio/#contacts">Contacts</HashLink>
 
 
     </section>
