@@ -11,9 +11,9 @@ function App() {
     <BrowserRouter>
       <Header />
       <Routes>
-        <Route path="/" element={<Main />} />
+        <Route path="/SEI-Portfolio/" element={<Main />} />
         {/* <Route path="/" element={< />}/> */}
-        <Route path="/*" element={<NotFound />} />
+        <Route path="SEI-Portfolio/*" element={<NotFound />} />
       </Routes>
       <Footer />
     </BrowserRouter>
