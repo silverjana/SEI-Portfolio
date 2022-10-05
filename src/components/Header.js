@@ -8,7 +8,7 @@ const Header = () => {
       <HashLink smooth to="/SEI-Portfolio/#about">About</HashLink>
       <HashLink smooth to="/SEI-Portfolio/#skills">Skills</HashLink>
       <HashLink smooth to="/SEI-Portfolio/#projects">Projects</HashLink>
-      <HashLink smooth to="/SEI-Portfolio/#contacts">Contacts</HashLink>
+      <HashLink smooth to="/SEI-Portfolio/#connect">Contacts</HashLink>
 
 
     </section>
