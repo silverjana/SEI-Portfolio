@@ -13,9 +13,12 @@ const Projects = () => {
         <div className="proj-card flip">
           <div className="inner-card">
             <div className="card-front">
-              <img src={mini1} alt="project1"></img>
-              <p><strong>Orc Invaders</strong> <br />First SEI project <br />Solo project - 1 week<br />Grid game<br />
-              <strong>Main Skills:</strong><br />HTML, CSS, Javascript<br /> </p>
+              <h3>Orc Invaders</h3>
+              <div>
+                <img src={mini1} alt="project1"></img>
+                <p>First SEI project <br />Solo project - 1 week<br />Grid game<br />
+                <strong>Main Skills:</strong><br />HTML, CSS, Javascript </p>
+              </div>
             </div>
             <div className="card-back">
               <p>I had one week to build a grid game using the HTML, CSS and JavaScript I learned during the first three weeks of the course. 
@@ -29,9 +32,12 @@ const Projects = () => {
         <div className="proj-card flip">
           <div className="inner-card">
             <div className="card-front">
-              <img src={mini2} alt="project2"></img>
-              <p><strong>Rijksmuseum</strong> <br />Second SEI project <br />Pair project - 2 days<br />Front end for a public museum API<br />
+              <h3>Rijksmuseum</h3>
+              <div>
+                <img src={mini2} alt="project2"></img>
+                <p>Second SEI project <br />Pair project - 2 days<br />Front end for a public museum API<br />
               <strong>Main Skills:</strong><br />HTML, CSS, Javascript, React, Axios<br /> </p>
+              </div>
             </div>
             <div className="card-back">
             <p>We used React and Axios to build a front end to display the data of a public API, collaborating on VSCode with LiveShare.
@@ -46,13 +52,16 @@ const Projects = () => {
         <div className="proj-card flip">
           <div className="inner-card">
             <div className="card-front">
+            <h3>Earthbnb</h3>
+              <div>
               <img src={mini3} alt="project3"></img>
-              <p><strong>Earthbnb</strong> <br />Third SEI project <br />Group project - 1 week<br />Full stack application <br />
+              <p>Third SEI project <br />Group project - 1 week<br />Full stack application <br />
               <strong>Main Skills:</strong><br />Javascript, React, Axios, Express, MongoDB<br /> </p>
+              </div>
             </div>
             <div className="card-back">
-            <p>I worked in a team of 3 on a remote GitHub repository and we built a full stack application using a React front end, an Express API and MongoDB.<br />
-              We went for a Airbnb inspired application where a registered user can view a list of properties, see a single one in detail and comment on it. All other CRUD operations can be performed on the review from the user profile page.  <br />
+            <p>I worked in a team of 3 on a remote GitHub repository and we built a full stack application using a React front end, an Express API and MongoDB. 
+              We went for a Airbnb inspired application where a registered user can view the properties, look at a single one in detail and leave a comment. All other reviews CRUD operations can be performed from the user profile page.  <br />
               It is styled with SASS and uses a MaterialUI library.<br />
                 <a href="#" target="_blank" rel="noreferrer"><strong>Deployed Version</strong></a><br />
                 <a href="#" target="_blank" rel="noreferrer"><strong>Readme</strong></a></p>
@@ -63,14 +72,17 @@ const Projects = () => {
         <div className="proj-card flip">
           <div className="inner-card">
             <div className="card-front">
+            <h3>Click + Care</h3>
+              <div>
               <img src={mini4} alt="project4"></img>
-              <p><strong>Click&amp;Care</strong> <br />Final SEI project <br />Solo project - 1 week<br />Full stack application <br />
+              <p>Final SEI project <br />Solo project - 1 week<br />Full stack application <br />
               <strong>Main Skills:</strong><br />Javascript, React, Axios, Python, Django, PostgreSQL<br /> </p>
+            </div>
             </div>
             <div className="card-back">
             <p>A full stack application using a React front end, a Django API and PostgreSQL, 
               where users can arrange non urgent at-home care tasks between patients and caregivers. Patients can create a task and propose it to some caregivers, who can accept it. 
-            I am very proud of the two types of user with a single login and profile page, and the interactions between them, all of which we did not cover in class.<br />
+            I am very proud of the two types of user with a single login and profile page, and the interactions between them, all of which we did not cover in class.
               It has a simple styling with SASS.<br />
                 <a href="#" target="_blank" rel="noreferrer"><strong>Deployed Version</strong></a><br />
                 <a href="#" target="_blank" rel="noreferrer"><strong>Readme</strong></a></p>
