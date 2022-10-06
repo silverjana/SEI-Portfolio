@@ -1,25 +1,31 @@
 {
   "files": {
-    "main.css": "/SEI-Portfolio/static/css/main.5485b444.css",
-    "main.js": "/SEI-Portfolio/static/js/main.6aa6de53.js",
+    "main.css": "/SEI-Portfolio/static/css/main.2dfbf1f9.css",
+    "main.js": "/SEI-Portfolio/static/js/main.4937fd4e.js",
     "static/js/787.44d50113.chunk.js": "/SEI-Portfolio/static/js/787.44d50113.chunk.js",
+    "static/media/sicily.jpg": "/SEI-Portfolio/static/media/sicily.bd5c7262f703ae95dbe7.jpg",
     "static/media/project1Mini.png": "/SEI-Portfolio/static/media/project1Mini.97a787526498ebcfd883.png",
     "static/media/project2Mini.png": "/SEI-Portfolio/static/media/project2Mini.6797f5cd6e05a3e8f71b.png",
     "static/media/Raleway-VariableFont_wght.ttf": "/SEI-Portfolio/static/media/Raleway-VariableFont_wght.575ec9e676c7a85494bb.ttf",
+    "static/media/etna.jpeg": "/SEI-Portfolio/static/media/etna.3ee8b72b782dcbd4aaae.jpeg",
     "static/media/project3Mini.png": "/SEI-Portfolio/static/media/project3Mini.21fa701e95de6c73b427.png",
+    "static/media/stavkirke.jpg": "/SEI-Portfolio/static/media/stavkirke.c9430dee7fef43edd9df.jpg",
     "static/media/profilePic.png": "/SEI-Portfolio/static/media/profilePic.49c0ab358443dfcfcfcc.png",
+    "static/media/hadrianWall.jpg": "/SEI-Portfolio/static/media/hadrianWall.f54a3951d65866f267ba.jpg",
     "static/media/netlify.png": "/SEI-Portfolio/static/media/netlify.ccce58847f997c473352.png",
+    "static/media/florida.jpg": "/SEI-Portfolio/static/media/florida.400c92d8efb9b8c99b44.jpg",
+    "static/media/abuSimbel.jpg": "/SEI-Portfolio/static/media/abuSimbel.71190a3168b974282a51.jpg",
     "static/media/pastelSky.webp": "/SEI-Portfolio/static/media/pastelSky.43cbbb244d9bdd03b456.webp",
     "static/media/QumoruGenochi-1GVZe.otf": "/SEI-Portfolio/static/media/QumoruGenochi-1GVZe.3ecc0a58d548e670fe8f.otf",
     "static/media/project4Mini.png": "/SEI-Portfolio/static/media/project4Mini.d63cc7a99eed76460f54.png",
     "static/media/insomniaLogo.png": "/SEI-Portfolio/static/media/insomniaLogo.6012be9eeabdcfebb0d6.png",
     "index.html": "/SEI-Portfolio/index.html",
-    "main.5485b444.css.map": "/SEI-Portfolio/static/css/main.5485b444.css.map",
-    "main.6aa6de53.js.map": "/SEI-Portfolio/static/js/main.6aa6de53.js.map",
+    "main.2dfbf1f9.css.map": "/SEI-Portfolio/static/css/main.2dfbf1f9.css.map",
+    "main.4937fd4e.js.map": "/SEI-Portfolio/static/js/main.4937fd4e.js.map",
     "787.44d50113.chunk.js.map": "/SEI-Portfolio/static/js/787.44d50113.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5485b444.css",
-    "static/js/main.6aa6de53.js"
+    "static/css/main.2dfbf1f9.css",
+    "static/js/main.4937fd4e.js"
   ]
 }
