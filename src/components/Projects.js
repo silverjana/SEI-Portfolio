@@ -17,13 +17,13 @@ const Projects = () => {
               <div>
                 <img src={mini1} alt="project1"></img>
                 <p>First SEI project <br />Solo project - 1 week<br />Grid game<br />
-                <strong>Main Skills:</strong><br />HTML, CSS, Javascript </p>
+                <strong>Main Skills:</strong><br />HTML, CSS, JavaScript </p>
               </div>
             </div>
             <div className="card-back">
               <p>I had one week to build a grid game using the HTML, CSS and JavaScript I learned during the first three weeks of the course. 
                 I chose to make a Space Invaders inspired 2 levels game, with a player name window prompt and a scoreboard.  <br />
-                I styled it after The Lord of Ther Rings and designed the level and game over screens on Canvas<br />
+                I styled it after The Lord of Ther Rings and designed the level and game over screens on Canvas.<br />
                 <a href="https://silverjana.github.io/SEI-Project1-OrcInvaders/" target="_blank" rel="noreferrer"><strong>Deployed Version</strong></a><br /><a href="#" target="_blank" rel="noreferrer"><strong>Readme</strong></a></p>
             </div>
           </div>
@@ -36,7 +36,7 @@ const Projects = () => {
               <div>
                 <img src={mini2} alt="project2"></img>
                 <p>Second SEI project <br />Pair project - 2 days<br />Front end for a public museum API<br />
-              <strong>Main Skills:</strong><br />HTML, CSS, Javascript, React, Axios<br /> </p>
+              <strong>Main Skills:</strong><br />HTML, CSS, JavaScript, React, Axios<br /> </p>
               </div>
             </div>
             <div className="card-back">
@@ -56,7 +56,7 @@ const Projects = () => {
               <div>
               <img src={mini3} alt="project3"></img>
               <p>Third SEI project <br />Group project - 1 week<br />Full stack application <br />
-              <strong>Main Skills:</strong><br />Javascript, React, Axios, Express, MongoDB<br /> </p>
+              <strong>Main Skills:</strong><br />JavaScript, React, Axios, Express, MongoDB<br /> </p>
               </div>
             </div>
             <div className="card-back">
@@ -76,7 +76,7 @@ const Projects = () => {
               <div>
               <img src={mini4} alt="project4"></img>
               <p>Final SEI project <br />Solo project - 1 week<br />Full stack application <br />
-              <strong>Main Skills:</strong><br />Javascript, React, Axios, Python, Django, PostgreSQL<br /> </p>
+              <strong>Main Skills:</strong><br />JavaScript, React, Axios, Python, Django, PostgreSQL<br /> </p>
             </div>
             </div>
             <div className="card-back">
