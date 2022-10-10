@@ -24,7 +24,8 @@ const Projects = () => {
               <p>I had one week to build a grid game using the HTML, CSS and JavaScript I learned during the first three weeks of the course. 
                 I chose to make a Space Invaders inspired 2 levels game, with a player name window prompt and a scoreboard.  <br />
                 I styled it after The Lord of Ther Rings and designed the level and game over screens on Canvas.<br />
-                <a href="https://silverjana.github.io/SEI-Project1-OrcInvaders/" target="_blank" rel="noreferrer"><strong>Deployed Version</strong></a><br /><a href="#" target="_blank" rel="noreferrer"><strong>Readme</strong></a></p>
+                <a href="https://silverjana.github.io/SEI-Project1-OrcInvaders/" target="_blank" rel="noreferrer"><strong>Deployed Version</strong></a><br />
+                <a href="https://github.com/silverjana/SEI-Project1-OrcInvaders/blob/main/README.md" target="_blank" rel="noreferrer"><strong>Readme</strong></a></p>
             </div>
           </div>
         </div>
@@ -44,7 +45,7 @@ const Projects = () => {
               We chose the API of the Rijksmuseum in Amsterdam and built an application to show some of the collections and single items in more detail on different pages.<br />
               It is styled with bootstrap cards, flexbox and imported fonts.<br />
                 <a href="https://sei-project2-museum.netlify.app/" target="_blank" rel="noreferrer"><strong>Deployed Version</strong></a><br />
-                <a href="#" target="_blank" rel="noreferrer"><strong>Readme</strong></a></p>
+                <a href="https://github.com/silverjana/SEI-Project2-React-museum-app/blob/main/README.md" target="_blank" rel="noreferrer"><strong>Readme</strong></a></p>
             </div>
           </div>
         </div>
@@ -64,7 +65,7 @@ const Projects = () => {
               We went for a Airbnb inspired application where a registered user can view the properties, look at a single one in detail and leave a comment. All other reviews CRUD operations can be performed from the user profile page.  <br />
               It is styled with SASS and uses a MaterialUI library.<br />
                 <a href="#" target="_blank" rel="noreferrer"><strong>Deployed Version</strong></a><br />
-                <a href="#" target="_blank" rel="noreferrer"><strong>Readme</strong></a></p>
+                <a href="https://github.com/silverjana/SEI-project3-Earthbnb-backend/blob/c64ce1e001288ea06fd2bbe77ce020664904f4eb/README.md" target="_blank" rel="noreferrer"><strong>Readme</strong></a></p>
             </div>
           </div>
         </div>
@@ -85,7 +86,7 @@ const Projects = () => {
             I am very proud of the two types of user with a single login and profile page, and the interactions between them, all of which we did not cover in class.
               It has a simple styling with SASS.<br />
                 <a href="#" target="_blank" rel="noreferrer"><strong>Deployed Version</strong></a><br />
-                <a href="#" target="_blank" rel="noreferrer"><strong>Readme</strong></a></p>
+                <a href="https://github.com/silverjana/SEI-Project4-backend/blob/main/README.md" target="_blank" rel="noreferrer"><strong>Readme</strong></a></p>
             </div>
           </div>
         </div>
