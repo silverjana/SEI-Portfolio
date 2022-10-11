@@ -64,7 +64,7 @@ const Projects = () => {
             <p>I worked in a team of 3 on a remote GitHub repository and we built a full stack application using a React front end, an Express API and MongoDB. 
               We went for a Airbnb inspired application where a registered user can view the properties, look at a single one in detail and leave a comment. All other reviews CRUD operations can be performed from the user profile page.  <br />
               It is styled with SASS and uses a MaterialUI library.<br />
-                <a href="#" target="_blank" rel="noreferrer"><strong>Deployed Version</strong></a><br />
+                <a href="https://sei-project3-earthbnb.netlify.app/" target="_blank" rel="noreferrer"><strong>Deployed Version</strong></a><br />
                 <a href="https://github.com/silverjana/SEI-project3-Earthbnb-backend/blob/c64ce1e001288ea06fd2bbe77ce020664904f4eb/README.md" target="_blank" rel="noreferrer"><strong>Readme</strong></a></p>
             </div>
           </div>
@@ -85,7 +85,7 @@ const Projects = () => {
               where users can arrange non urgent at-home care tasks between patients and caregivers. Patients can create a task and propose it to some caregivers, who can accept it. 
             I am very proud of the two types of user with a single login and profile page, and the interactions between them, all of which we did not cover in class.
               It has a simple styling with SASS.<br />
-                <a href="#" target="_blank" rel="noreferrer"><strong>Deployed Version</strong></a><br />
+                <a href="https://project4-click-and-care.herokuapp.com/" target="_blank" rel="noreferrer"><strong>Deployed Version</strong></a><br />
                 <a href="https://github.com/silverjana/SEI-Project4-backend/blob/main/README.md" target="_blank" rel="noreferrer"><strong>Readme</strong></a></p>
             </div>
           </div>
