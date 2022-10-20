@@ -64,7 +64,7 @@ const Projects = () => {
             <p>I worked in a team of 3 on a remote GitHub repository and we built a full stack application using a React front end, an Express API and MongoDB. 
               We went for a Airbnb inspired application where a registered user can view the properties, look at a single one in detail and leave a comment. All other reviews CRUD operations can be performed from the user profile page.  <br />
               It is styled with SASS and uses a MaterialUI library.<br />
-                <a href="https://sei-project3-earthbnb.netlify.app/" target="_blank" rel="noreferrer"><strong>Deployed Version</strong></a><br />
+                <a href="https://project3-earthbnb.netlify.app/" target="_blank" rel="noreferrer"><strong>Deployed Version</strong></a><br />
                 <a href="https://github.com/silverjana/SEI-project3-Earthbnb-backend/blob/c64ce1e001288ea06fd2bbe77ce020664904f4eb/README.md" target="_blank" rel="noreferrer"><strong>Readme</strong></a></p>
             </div>
           </div>

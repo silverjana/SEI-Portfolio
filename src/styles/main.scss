@@ -82,6 +82,7 @@ h2 {
   margin-top: 100px;
   display:flex;
   flex-direction: row;
+  
 }
 
 #hero-text {
@@ -135,6 +136,7 @@ h2 {
   padding-right: 45px;
   line-height: 190%;
   font-weight: 500;
+
 
   p {
     font-size: 1.1rem;
@@ -226,8 +228,6 @@ h2 {
   background: rgba(208, 120, 252, 0.375);
   border-radius: 30px;
   box-shadow: 1px 1px 4px rgb(124, 91, 162);
-  
-
 }
 
 // horizontal flip on hover
@@ -340,4 +340,117 @@ p{
     height: 100px;
     margin-top: -10px;
   }
+}
+
+
+//  ----  MEDIA  -----
+
+@media screen and (min-width:480px) and (max-width:800px) {
+  /* Target landscape smartphones, portrait tablets, narrow desktops
+  
+  */
+}
+  
+
+
+@media screen and (max-width:479px) {
+  /* Target portrait smartphones */
+
+  #header {
+    background-color: rgba(153, 88, 250, 0.45);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    top: 0;
+    height: 50px;
+  
+    h2 {
+      font-size: 1.1rem;
+      text-shadow: 1px 1px 1px white;
+      line-height: 120%;
+      padding-top: 8px;
+    }
+    a{
+      font-size: 0.9rem;
+      padding-right: 8px;
+    }
+  }
+
+  .card {
+    margin: 0 5px;
+    margin-top: 45px;
+  }
+
+  #hero {
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  #about {
+    padding-left: 35px;
+    padding-right: 35px;
+    p {
+      font-size: 1rem;
+    }
+  }
+  
+  .skill {
+    padding: 10px 10px;
+    min-width: fit-content;
+    max-width: 90px;
+  }
+
+
+
+  #projects{
+    div{
+      display: flex;
+      justify-content: space-around;
+    }
+  }
+  .proj-card {
+    display: block;
+    margin: 0 auto;
+    margin-top: 35px;
+    padding: 13px;
+    min-width: fit-content;
+    
+  }
+  .flip {
+    height: 430px;
+    width: 95%;
+    perspective: 1000px; //for 3d effect - can remove
+    margin-top: 10px;
+  }
+  //style front
+.card-front {
+  h3{
+    padding: 5px 0;
+  }
+  p{
+    width: 70%;
+    padding: 15px 0px;
+  }
+  img {
+    margin: 0 auto;
+    width: 70%;
+  }
+}
+
+//style back
+.card-back {
+  p{
+    margin: 20px;
+    line-height: 170%;
+    a{
+      text-decoration: none;
+    }
+    strong{
+      color: white;
+    }
+  }
+}
+
+
 }
